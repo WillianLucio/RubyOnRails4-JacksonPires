@@ -40,6 +40,8 @@ gem 'rails-i18n', '~> 4.0' # For 4.0.x
 gem 'lerolero_generator'
 # Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 gem 'cocoon'
+# A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+gem 'kaminari'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
