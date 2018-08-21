@@ -1,5 +1,7 @@
 pt-BR:
   buttons:
+    save: Salvar
+    back: Voltar
     new: Novo
     show: Mostrar
     edit: Editar

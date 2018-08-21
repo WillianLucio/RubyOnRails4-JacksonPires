@@ -10,6 +10,9 @@ pt-BR:
       phone:
         one: Telefone
         other: Telefones
+      kind:
+        one: Tipo
+        other: Tipos
     attributes:
       contact:
         name: Nome
@@ -23,3 +26,5 @@ pt-BR:
         contact: Contato
       phone:
         phone: Telefone
+      kind:
+        description: Descricao
